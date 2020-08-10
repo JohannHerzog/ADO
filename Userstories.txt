@@ -1,0 +1,73 @@
+Blueprint
+Title:
+Story:
+Acceptance criteria:
+
+Use Case 1
+As a user, I'd like to insert a text to the program, so I can find the most used words in this text.
+- as pasted text
+- as text file
+
+Use Case 2
+As a user I'd like to insert text in a different language, to analyze it.
+
+Use Case 3
+As a user, I 'd like to see all words from all texts, that I added to the program. So I can see most used words for each text and most user word of all texts.
+
+
+Use Case 4
+As a user, I don't want to be disturbed by words, that I already know. So I can be focused on many important words.
+- ignore words if they already know.
+
+
+Use Case 5
+As a user, I'd like to learn the most important words from a text or all texts. 
+- learning schedule
+- organize a learning path
+
+
+Use Case 6
+As a user, I'd like to use the program offline. So I don't need the internet to add texts and learn words.
+- store texts and words local
+
+
+Use Case 7
+As a user, I'd like to learn from different types of devices. To learn everywhere that I like and still get my progress.
+- synchronization to multiple devices
+- CSV and SQL
+- Web interface, Mobile app, Windows app
+
+Use Case 8
+As a user, I'd like to be notified, remind to learn words.
+- kalender
+- notifications e-mail, browser notification, device notification
+
+Use Case 9
+As a user, I'd like to store data protected, that no one can get my data
+- Accounts
+- password protection
+
+
+Use Case 10
+As a user, I'd like to translate words automatically, so I don't have to type them myself.
+- translation API
+
+
+Use Case 11
+As a user, I'd like to print words, that I can learn them offline or without a device
+
+
+Use Case 12
+As a user, I'd like to see my progress and other analysis. So I know how much I learned, or how much I already know.
+
+
+Use Case 13
+As a user, I'd like to have a different type of learning methods, so I can learn without getting bored.
+- spell
+- flip
+- tell
+- listen
+
+Use Case 14
+As a user, I'd like to have example sentences for each word, with the senses that were in my text or texts.
+

@@ -7,6 +7,11 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ADOData", "ADOData\ADOData.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOWinFormsUI", "ADOWinFormsUI\ADOWinFormsUI.csproj", "{92DB5451-35C3-4063-835F-5C45FA726E6F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA0D867B-428E-4CB2-97DD-B43BF695A028}"
+	ProjectSection(SolutionItems) = preProject
+		Userstories.txt = Userstories.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
